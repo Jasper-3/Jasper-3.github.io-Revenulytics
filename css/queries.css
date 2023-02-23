@@ -182,4 +182,8 @@
   .footer-subheading {
     padding-bottom: 1.8rem;
   }
+
+  .service-card-text {
+    padding: 0 2rem 2rem 2rem;
+  }
 }

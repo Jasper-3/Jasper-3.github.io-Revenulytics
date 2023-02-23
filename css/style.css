@@ -284,15 +284,15 @@ a .hero-button {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40rem;
-  height: 20.7rem;
+  width: 100%;
+  height: auto;
   padding-bottom: 2rem;
 }
 
 .service-card-text {
   text-align: center;
   text-decoration: none;
-  margin: 0 13rem 2rem 13rem;
+  padding: 0 13rem 2rem 13rem;
   border-radius: 3px;
   font-size: 1.6rem;
   letter-spacing: 0.1rem;
